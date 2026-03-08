@@ -3,8 +3,8 @@
 AWS Bedrock, LangGraph, DynamoDB를 활용한 대화 기억 기반 통합 AI 에이전트 웹 애플리케이션입니다.
 
 * Streamlit URL: http://ks2-kai-dev-kabie-ecs-nlb-7c9179426856b610.elb.ap-northeast-2.amazonaws.com/ai-agent/
-
-![Streamlit UI](https://github.com/i-am-shuan/agentic-rag/blob/main/images/streamlit_ui.png)
+* Architecture: ![Architecture](https://github.com/i-am-shuan/agentic-rag/blob/main/images/archi.png)
+* Streamlit UI: ![Streamlit UI](https://github.com/i-am-shuan/agentic-rag/blob/main/images/streamlit_ui.png)
 
 ---
 
